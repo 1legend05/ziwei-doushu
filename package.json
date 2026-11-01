@@ -20,6 +20,8 @@
     "ioredis": "^5.10.1",
     "iztro": "^2.5.8",
     "lunar-javascript": "^1.7.3",
+    "mpg123-decoder": "^1.0.3",
+    "msedge-tts": "^2.1.1",
     "next": "^16.3.8",
     "pg": "^8.20.0",
     "react": "^19.2.5",
